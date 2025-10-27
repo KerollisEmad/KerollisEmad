@@ -36,9 +36,13 @@
 ---
 
 ### 📂 Featured Projects
-- 🛒 **FreshCard E-Commerce App** — React + Tailwind + React Query ✅. 
-- 💬 **Social App** — Next.js + TypeScript + Redux  (Loading).
-- 🌐 **Portfolio Website** — Designed & Built from scratch  (Loading).
+
+- 🎨 **Fokir** — Personal Portfolio Template using **HTML & CSS**  ✅ 
+- 🍽️ **Mealify** — Restaurant Website using **HTML, CSS & Bootstrap**  ✅ 
+- 🌦️ **Weather App** — Built with **HTML, CSS & JavaScript** (API-based Project) ✅  
+- 🛒 **FreshCard E-Commerce App** — **React + Tailwind + React Query** ✅  
+- 💬 **Social App** — **Next.js + TypeScript + Redux** *(Loading...)*  
+- 🌐 **Portfolio Website** — Designed & Built from scratch *(Loading...)*
 
 ---
 
